@@ -1,5 +1,5 @@
 - 👋 Hi, I’m JONG HYUN
-- 🌱 I’m currently learning WEB
+- 🌱 I’m currently learning WEB(BACK-END, FRONT-END)
 
 <!---
 hooonfgfg/hooonfgfg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
