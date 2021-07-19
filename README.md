@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @
+- 👋 Hi, I’m JONG HYUN
 - 🌱 I’m currently learning WEB
 
 <!---
